@@ -12,6 +12,19 @@ body {
   color: #bbb;
 }
 
+.light{
+  background-color: white;
+  color: #111;
+}
+
+.dark{
+  background-color: #111;
+  color: #bbb;
+}
+.theme{
+  transition: 1s all ease;
+}
+
 a{
   text-decoration: none;
   color: inherit;
@@ -26,3 +39,4 @@ a{
   flex-direction: column;
   justify-content: space-between;
 }
+
